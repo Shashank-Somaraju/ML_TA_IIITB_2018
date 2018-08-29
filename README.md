@@ -6,11 +6,19 @@ This repository contains TA sessions work for the Machine Learning course, Aug '
 
 * Python3
 * Numpy
-* Pandas 
-* openCV
+* Pandas
 * Scipy
 * Scikit-learn
+* MatplotLib
+* Seaborn
+* openCV
 * PIL
 
 
+# Teaching Assistants
+* Pratheeksha Nair
+* Chandana Kotta: https://www.linkedin.com/in/chandana-k-b43871a7/
+* Ravi Theja
+* Bhavuk Sharma
+* Ahmad Shayaan
 
